@@ -1,0 +1,11 @@
+C:\New folder\ReportDemo\ReportDemo\bin\Debug\ReportDemo.exe.config
+C:\New folder\ReportDemo\ReportDemo\obj\Debug\ReportDemo.csprojResolveAssemblyReference.cache
+C:\New folder\ReportDemo\ReportDemo\obj\Debug\ReportDemo.Form1.resources
+C:\New folder\ReportDemo\ReportDemo\obj\Debug\Module_Report.Report.resources
+C:\New folder\ReportDemo\ReportDemo\obj\Debug\ReportDemo.Properties.Resources.resources
+C:\New folder\ReportDemo\ReportDemo\obj\Debug\ReportDemo.csproj.GenerateResource.Cache
+C:\New folder\ReportDemo\ReportDemo\bin\Debug\ReportDemo.exe
+C:\New folder\ReportDemo\ReportDemo\bin\Debug\ReportDemo.pdb
+C:\New folder\ReportDemo\ReportDemo\bin\Debug\DocX.dll
+C:\New folder\ReportDemo\ReportDemo\obj\Debug\ReportDemo.exe
+C:\New folder\ReportDemo\ReportDemo\obj\Debug\ReportDemo.pdb
